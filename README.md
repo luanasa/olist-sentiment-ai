@@ -30,4 +30,4 @@ No aplicativo, você pode:
 ## 👩‍💻 Autora
 **Luana Sá**
 *Dev & Data Scientist*
-[LinkedIn](SEU_LINK) | [Portfólio](SEU_PORTFOLIO)
+[LinkedIn](https://www.linkedin.com/in/luamartins/) 
