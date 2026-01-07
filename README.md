@@ -1,5 +1,6 @@
 # 🤖 Olist AI: Auditoria de Sentimentos com NLP
-<img width="1920" height="1670" alt="screencapture-olist-sentiment-ai-phq2wzzeunmuxoexxb8usj-streamlit-app-2026-01-07-19_11_10" src="https://github.com/user-attachments/assets/067517fe-4519-468c-baef-9e0c3b51d88e" />
+<img width="2022" height="1848" alt="frame_safari_dark" src="https://github.com/user-attachments/assets/810796e0-8060-45fc-aa40-0f2d9b47531f" />
+
 
 ![Python](https://img.shields.io/badge/Python-AI-blue.svg)
 ![BERT](https://img.shields.io/badge/Model-BERT%20Transformer-yellow.svg)
